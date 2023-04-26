@@ -3,11 +3,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 April 2023 - To: 24 April 2023
+From: 18 April 2023 - To: 25 April 2023
 
-Total Time: 0 secs
+Total Time: 2 hrs 16 mins
 
-No activity tracked
+JavaScript   1 hr 24 mins    ███████████████▓░░░░░░░░░   62.27 %
+JSON         28 mins         █████░░░░░░░░░░░░░░░░░░░░   20.62 %
+TypeScript   18 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.38 %
+Other        5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
 ```
 
 <!--END_SECTION:waka-->

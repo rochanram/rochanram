@@ -3,17 +3,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 July 2023 - To: 14 July 2023
+From: 08 July 2023 - To: 15 July 2023
 
-Total Time: 11 hrs 59 mins
+Total Time: 10 hrs 47 mins
 
-JavaScript   7 hrs 53 mins   ████████████████▒░░░░░░░░   65.80 %
-JSON         3 hrs 12 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.77 %
-YAML         18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
-Other        16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
-Git Config   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
-XML          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+JavaScript   5 hrs 45 mins   █████████████▒░░░░░░░░░░░   53.30 %
+JSON         2 hrs 47 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.91 %
+YAML         1 hr 43 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.03 %
+Other        16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+Git Config   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->

@@ -3,12 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 October 2023 - To: 06 November 2023
+From: 31 October 2023 - To: 07 November 2023
 
-Total Time: 1 min
+Total Time: 1 hr 1 min
 
-JavaScript   1 min           ██████████████████░░░░░░░   72.20 %
-Other        0 secs          ███████░░░░░░░░░░░░░░░░░░   27.80 %
+JavaScript   27 mins         ███████████▒░░░░░░░░░░░░░   44.93 %
+JSON         17 mins         ███████░░░░░░░░░░░░░░░░░░   28.51 %
+Other        16 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.55 %
 ```
 
 <!--END_SECTION:waka-->

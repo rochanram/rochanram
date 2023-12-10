@@ -3,12 +3,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 November 2023 - To: 07 December 2023
+From: 02 December 2023 - To: 09 December 2023
 
-Total Time: 49 mins
+Total Time: 17 mins
 
-JavaScript   49 mins         ████████████████████████▓   98.84 %
-YAML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+JavaScript   16 mins         ████████████████████████▒   96.71 %
+YAML         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
 ```
 
 <!--END_SECTION:waka-->

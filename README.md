@@ -3,18 +3,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 December 2023 - To: 18 December 2023
+From: 12 December 2023 - To: 19 December 2023
 
-Total Time: 17 hrs 57 mins
+Total Time: 22 hrs 35 mins
 
-JavaScript   15 hrs 15 mins  █████████████████████▒░░░   85.03 %
-YAML         1 hr 29 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
-Bash         23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
-TypeScript   22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
-JSON         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
-TSConfig     5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+JavaScript   19 hrs 33 mins  █████████████████████▓░░░   86.57 %
+YAML         1 hr 31 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
+TypeScript   33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
+JSON         26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
+Bash         23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+TSConfig     5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->

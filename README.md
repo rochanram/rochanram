@@ -3,12 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 December 2023 - To: 05 January 2024
+From: 30 December 2023 - To: 06 January 2024
 
-Total Time: 2 hrs 6 mins
+Total Time: 2 hrs 58 mins
 
-JavaScript   2 hrs 5 mins    ████████████████████████▓   98.77 %
-YAML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+JavaScript   2 hrs 41 mins   ██████████████████████▓░░   90.63 %
+TypeScript   15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 %
+JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
 ```
 
 <!--END_SECTION:waka-->

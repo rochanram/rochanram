@@ -3,16 +3,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 March 2024 - To: 09 March 2024
+From: 03 March 2024 - To: 10 March 2024
 
-Total Time: 22 hrs 15 mins
+Total Time: 20 hrs 44 mins
 
-JavaScript   16 hrs 37 mins  ██████████████████▓░░░░░░   74.66 %
-YAML         3 hrs 58 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.88 %
-TypeScript   50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
-Markdown     39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
-Other        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
-JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+JavaScript   15 hrs 25 mins  ██████████████████▓░░░░░░   74.39 %
+YAML         3 hrs 46 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.23 %
+TypeScript   50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
+Markdown     32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+Other        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```

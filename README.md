@@ -3,18 +3,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 April 2024 - To: 10 April 2024
+From: 04 April 2024 - To: 11 April 2024
 
-Total Time: 14 hrs 48 mins
+Total Time: 20 hrs
 
-JavaScript   7 hrs 45 mins   █████████████░░░░░░░░░░░░   52.36 %
-JSON         3 hrs 23 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.85 %
-Text         1 hr 42 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.53 %
-YAML         1 hr 9 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
-Other        30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
-CSV          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
-Git Config   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+JavaScript   10 hrs 17 mins  █████████████░░░░░░░░░░░░   51.49 %
+JSON         4 hrs 44 mins   ██████░░░░░░░░░░░░░░░░░░░   23.68 %
+Text         2 hrs 12 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.04 %
+YAML         1 hr 45 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.79 %
+Other        30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+CSV          17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+Git Config   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+TypeScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->

@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 May 2024 - To: 17 May 2024
+From: 11 May 2024 - To: 18 May 2024
 
-Total Time: 15 hrs 24 mins
+Total Time: 13 hrs 58 mins
 
-JavaScript   11 hrs 35 mins  ██████████████████▓░░░░░░   75.15 %
-YAML         1 hr 34 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.26 %
-Other        1 hr 29 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.65 %
-JSON         39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
-INI          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+JavaScript   10 hrs 19 mins  ██████████████████▒░░░░░░   73.93 %
+YAML         1 hr 34 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.32 %
+Other        1 hr 23 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.94 %
+JSON         33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
+INI          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
 Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 

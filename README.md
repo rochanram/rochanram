@@ -3,12 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 May 2024 - To: 05 June 2024
+From: 30 May 2024 - To: 06 June 2024
 
-Total Time: 1 hr 24 mins
+Total Time: 2 hrs 29 mins
 
-YAML   1 hr 23 mins    ████████████████████████▓   99.05 %
-Bash   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+YAML    2 hrs 29 mins   █████████████████████████   99.44 %
+Bash    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->

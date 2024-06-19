@@ -3,13 +3,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 June 2024 - To: 17 June 2024
+From: 11 June 2024 - To: 18 June 2024
 
-Total Time: 8 hrs 26 mins
+Total Time: 1 hr 29 mins
 
-YAML         7 hrs 59 mins   ███████████████████████▓░   94.71 %
-JavaScript   25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+YAML         1 hr 19 mins    ██████████████████████▒░░   88.88 %
+JavaScript   9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 %
 ```
 
 <!--END_SECTION:waka-->

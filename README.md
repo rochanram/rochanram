@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 July 2024 - To: 24 July 2024
+From: 18 July 2024 - To: 25 July 2024
 
-Total Time: 25 mins
+Total Time: 43 mins
 
-JavaScript   13 mins         █████████████▓░░░░░░░░░░░   54.07 %
-JSON         11 mins         ███████████▒░░░░░░░░░░░░░   45.44 %
-CSV          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+JavaScript   32 mins         ██████████████████▒░░░░░░   73.63 %
+JSON         11 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.09 %
+CSV          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->

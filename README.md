@@ -3,19 +3,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 September 2024 - To: 16 September 2024
+From: 10 September 2024 - To: 17 September 2024
 
-Total Time: 7 hrs 38 mins
+Total Time: 5 hrs 39 mins
 
-JavaScript   5 hrs 56 mins   ███████████████████▒░░░░░   77.79 %
-YAML         55 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.16 %
-JSON         34 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
-Other        10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
-SQL          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+JavaScript   4 hrs 31 mins   ████████████████████░░░░░   80.09 %
+JSON         32 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.51 %
+YAML         31 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.20 %
+Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+SQL          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-CSV          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->

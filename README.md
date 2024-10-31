@@ -3,18 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 October 2024 - To: 29 October 2024
+From: 23 October 2024 - To: 30 October 2024
 
-Total Time: 9 hrs 29 mins
+Total Time: 6 hrs 43 mins
 
-JavaScript   6 hrs 22 mins   ████████████████▓░░░░░░░░   67.23 %
-JSON         2 hrs 17 mins   ██████░░░░░░░░░░░░░░░░░░░   24.13 %
-Other        30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
-CSV          14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
-Git Config   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
-TypeScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+JavaScript   4 hrs 44 mins   █████████████████▓░░░░░░░   70.49 %
+JSON         1 hr 20 mins    █████░░░░░░░░░░░░░░░░░░░░   20.06 %
+Other        22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
+CSV          14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
+TypeScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 

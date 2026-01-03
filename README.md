@@ -3,18 +3,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 December 2025 - To: 01 January 2026
+From: 26 December 2025 - To: 02 January 2026
 
-Total Time: 7 hrs 53 mins
+Total Time: 6 hrs 54 mins
 
-JavaScript           5 hrs 43 mins   ██████████████████░░░░░░░   72.48 %
-Text                 1 hr 13 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.45 %
-TypeScript           26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 %
-JSON                 17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
-Other                4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-JSON with Comments   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
-YAML                 3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
-Bash                 0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+JavaScript           4 hrs 58 mins   ██████████████████░░░░░░░   72.10 %
+Text                 1 hr 13 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.69 %
+JSON                 17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
+TypeScript           12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+Other                4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+JSON with Comments   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+YAML                 3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 Markdown             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 

@@ -3,20 +3,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 January 2026 - To: 17 January 2026
+From: 11 January 2026 - To: 18 January 2026
 
-Total Time: 23 hrs 58 mins
+Total Time: 14 hrs 57 mins
 
-YAML                       15 hrs 24 mins  ████████████████░░░░░░░░░   64.28 %
-JavaScript                 4 hrs 46 mins   █████░░░░░░░░░░░░░░░░░░░░   19.92 %
-JSON                       2 hrs 26 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.19 %
-Text                       26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
-TypeScript                 14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
-Other                      13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
-DIGITAL Command Language   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
-HTML                       5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
-SQL                        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-CSV                        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+YAML                       6 hrs 44 mins   ███████████▒░░░░░░░░░░░░░   45.06 %
+JavaScript                 4 hrs 29 mins   ███████▓░░░░░░░░░░░░░░░░░   30.05 %
+JSON                       2 hrs 22 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.92 %
+Text                       26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
+TypeScript                 13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+Other                      13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+DIGITAL Command Language   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+HTML                       5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+SQL                        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+CSV                        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 ```
 
 <!--END_SECTION:waka-->

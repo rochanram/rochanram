@@ -3,20 +3,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 February 2026 - To: 23 February 2026
+From: 17 February 2026 - To: 24 February 2026
 
-Total Time: 27 hrs 49 mins
+Total Time: 24 hrs 25 mins
 
-JavaScript   16 hrs 17 mins        ██████████████▓░░░░░░░░░░   58.55 %
-TypeScript   6 hrs 4 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.84 %
-JSON         1 hr 55 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
-Bash         1 hr 3 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
-Markdown     43 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
-Other        24 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
-HTML         22 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
-TSConfig     19 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
-Git Config   13 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-YAML         12 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+JavaScript   15 hrs 39 mins        ████████████████░░░░░░░░░   64.10 %
+TypeScript   3 hrs 54 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.99 %
+JSON         1 hr 52 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 %
+Bash         55 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
+Markdown     40 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
+HTML         17 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+TSConfig     17 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+Git Config   13 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+YAML         12 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+Text         12 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
 ```
 
 <!--END_SECTION:waka-->

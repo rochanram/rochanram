@@ -3,18 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 March 2026 - To: 06 April 2026
+From: 31 March 2026 - To: 07 April 2026
 
-Total Time: 17 hrs 14 mins
+Total Time: 17 hrs 45 mins
 
-JavaScript   14 hrs 28 mins        █████████████████████░░░░   83.96 %
-Markdown     1 hr 46 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.34 %
-YAML         23 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
-JSON         21 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
-HTML         12 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
-Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-nvmrc        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+JavaScript   14 hrs 54 mins        █████████████████████░░░░   83.94 %
+Markdown     2 hrs 12 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.46 %
+JSON         14 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+HTML         12 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+YAML         12 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
 TypeScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 

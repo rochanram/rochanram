@@ -3,20 +3,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 April 2026 - To: 01 May 2026
+From: 25 April 2026 - To: 02 May 2026
 
-Total Time: 32 hrs 44 mins
+Total Time: 34 hrs 1 min
 
-JavaScript    14 hrs 4 mins         ██████████▓░░░░░░░░░░░░░░   43.02 %
-Markdown      6 hrs 45 mins         █████░░░░░░░░░░░░░░░░░░░░   20.63 %
-Other         6 hrs 6 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.68 %
-Text          2 hrs 26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
-JSON          2 hrs 16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
-TypeScript    26 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
-YAML          17 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
-Git Config    13 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
-nvmrc         4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-Cheetah       1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+JavaScript    17 hrs 32 mins        █████████████░░░░░░░░░░░░   51.57 %
+Other         6 hrs 31 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.19 %
+Markdown      5 hrs 14 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.40 %
+Text          2 hrs 24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 %
+JSON          1 hr 24 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
+TypeScript    19 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+YAML          17 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+Git Config    11 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+nvmrc         4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Cheetah       1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->

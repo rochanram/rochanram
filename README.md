@@ -3,17 +3,19 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 July 2026 - To: 08 July 2026
+From: 02 July 2026 - To: 09 July 2026
 
-Total Time: 4 hrs 6 mins
+Total Time: 6 hrs 7 mins
 
-JavaScript   2 hrs 25 mins         ██████████████▓░░░░░░░░░░   58.92 %
-YAML         1 hr 24 mins          ████████▓░░░░░░░░░░░░░░░░   34.32 %
-Markdown     7 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
-TypeScript   4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
-Text         1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
-Other        1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
-JSON         1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+JavaScript    3 hrs 14 mins         █████████████▒░░░░░░░░░░░   53.00 %
+YAML          1 hr 58 mins          ████████░░░░░░░░░░░░░░░░░   32.16 %
+TypeScript    18 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
+Other         11 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
+Markdown      10 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
+JSON          7 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+Image (png)   4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+Text          2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+Bash          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->

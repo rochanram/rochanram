@@ -3,18 +3,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 July 2026 - To: 07 August 2026
+From: 01 August 2026 - To: 08 August 2026
 
-Total Time: 5 hrs 45 mins
+Total Time: 5 hrs 25 mins
 
-TypeScript   2 hrs 2 mins          █████████░░░░░░░░░░░░░░░░   35.48 %
-JavaScript   1 hr 23 mins          ██████░░░░░░░░░░░░░░░░░░░   24.24 %
-Markdown     1 hr 11 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.69 %
-Other        43 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.46 %
-YAML         16 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
-Text         5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
-JSON         2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
-TSConfig     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+TypeScript   2 hrs 2 mins          █████████▒░░░░░░░░░░░░░░░   37.65 %
+Markdown     1 hr 10 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.78 %
+JavaScript   1 hr 5 mins           █████░░░░░░░░░░░░░░░░░░░░   20.24 %
+Other        43 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.22 %
+YAML         15 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
+Text         5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+JSON         2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+TSConfig     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->

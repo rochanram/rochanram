@@ -3,18 +3,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 August 2026 - To: 18 August 2026
+From: 12 August 2026 - To: 19 August 2026
 
-Total Time: 12 hrs 58 mins
+Total Time: 13 hrs 15 mins
 
-JavaScript   6 hrs 57 mins         █████████████▒░░░░░░░░░░░   53.66 %
-Other        2 hrs 11 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.94 %
-Markdown     2 hrs 7 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.36 %
-YAML         50 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
-JSON         23 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
-TypeScript   21 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
-Python       3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-Text         2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+JavaScript   7 hrs 22 mins         ██████████████░░░░░░░░░░░   55.57 %
+Other        2 hrs 33 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.24 %
+Markdown     1 hr 32 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.60 %
+YAML         54 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 %
+Text         25 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
+TypeScript   18 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+JSON         5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+Python       3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
 ```
 
 <!--END_SECTION:waka-->
